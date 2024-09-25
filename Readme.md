@@ -17,6 +17,8 @@ We will analyze the energy meter data from the CEEW study titled **"What Smart M
  - CEEW - Smart meter data Mathura 2020.csv 
  - CEEW - Smart meter data Mathura 2021.tab
 
+Download all these files and save in a folder named 'Data'.
+
 ## Project Outline
 1. **Data Collection**: Collected smart meter data from two locations (Bareilly and Mathura), measuring electricity consumption at regular intervals.
 2. **Data Preprocessing**: Performed cleaning and preprocessing of the dataset, extracting time-based features (e.g., hourly, daily, monthly consumption).
